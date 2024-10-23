@@ -7,14 +7,14 @@
 ## Install with composer
 
 ```bash
-composer require arleyoliveira/extrato-cfe
+composer require nfservice/doc-cfe
 ```
 
 
 ## Quick Start
 
 ```php
-use ArleyOliveira\CFe\Extrato;
+use NFService\CFe\Extrato;
 
 $xml = __DIR__ . 'path_to_xml';
 
@@ -36,3 +36,11 @@ $extrato->pdf(true);
 
 
 ```
+
+## Autor Original
+
+Este projeto foi desenvolvido originalmente por [Arley Oliveira](https://github.com/arleyoliveira).
+
+## Fork
+
+Este fork foi criado por [Henrique Ernandes](https://github.com/henriquernandes).

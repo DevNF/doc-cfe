@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ArleyOliveira\Utils;
+namespace NFService\Utils;
 
 
 abstract class Estado

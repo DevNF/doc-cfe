@@ -1,11 +1,11 @@
 <?php
 
 
-namespace ArleyOliveira\CFe;
+namespace NFService\CFe;
 
 use Dompdf\Dompdf;
-use ArleyOliveira\Common\Twig;
-use ArleyOliveira\Utils\Mask;
+use NFService\Common\Twig;
+use NFService\Utils\Mask;
 
 class Extrato
 {
